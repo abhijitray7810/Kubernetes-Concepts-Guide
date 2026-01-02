@@ -1,4 +1,4 @@
-# Pod
+# Pod 
 ## Definition:
 - smallest unit in kubernetes, wraps one or more containers with shared storage and network.
 ## Why:
