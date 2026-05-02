@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-1. [What is Kubernetes? Orchestration Tools Landscape](#1-what-is-kubernetes)
+1. [What is Kubernetes? Orchestration Tools Landscape](#1-what-is-kubernetes) 
 2. [Communication Protocols — gRPC Deep Dive](#2-grpc--kubernetes-communication)
 3. [K8s Architecture — Full Deep Dive](#3-kubernetes-architecture)
    - 3.1 [Cluster](#31-cluster)
