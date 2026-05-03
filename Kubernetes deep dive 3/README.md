@@ -3,7 +3,7 @@
 > **Covers:** Labels · Annotations · Cluster Architecture · Pods · ReplicaSets · Deployments · Volumes · Probes · OOM · Rollout/Rollback · SLO/SLA/SLI · and more
 
 ---
-![image](https://github.com/abhijitray7810/Kubernetes-Concepts-Guide/blob/b41f1140852c06c9b2371b08fee379d4c8d17c9e/Kubernetes%20deep%20dive%203/pod-livecycle.png)
+
 ## Table of Contents
 
 1. [Cluster Architecture Overview](#1-cluster-architecture-overview)
@@ -200,7 +200,7 @@ selector:
 ```
 
 ---
-
+![image](https://github.com/abhijitray7810/Kubernetes-Concepts-Guide/blob/b41f1140852c06c9b2371b08fee379d4c8d17c9e/Kubernetes%20deep%20dive%203/pod-livecycle.png)
 ## 3. Annotations
 
 ### What Are Annotations?
