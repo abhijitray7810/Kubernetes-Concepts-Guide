@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-1. [K8s Architecture: The 8-Layer Stack](#1-k8s-architecture-the-8-layer-stack)
+1. [K8s Architecture: The 8-Layer Stack](#1-k8s-architecture-the-8-layer-stack) 
 2. [Public Key, Private Key & Certificates — Fundamentals](#2-public-key-private-key--certificates--fundamentals) 
 3. [Certificate Authority (CA) — How It Works](#3-certificate-authority-ca--how-it-works)
 4. [TLS — Transport Layer Security](#4-tls--transport-layer-security)
