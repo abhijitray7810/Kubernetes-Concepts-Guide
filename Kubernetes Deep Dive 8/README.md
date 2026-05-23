@@ -364,12 +364,12 @@ Files appear as `/etc/secrets/username` and `/etc/secrets/password`.
 
 ```bash
 # What K8s stores:
-echo -n "prerit" | base64
-# → cHJlcml0
+echo -n "abhijit" | base64
+# → YWJoaWppdA==
 
 # Anyone can decode it in 1 second:
-echo -n "cHJlcml0" | base64 -d
-# → prerit
+echo -n "YWJoaWppdA==" | base64 -d
+# → abhijit
 ```
 
 **Base64 is encoding, not encryption.**  
