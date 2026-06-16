@@ -2,7 +2,7 @@
 # 🔐 Kubernetes: TLS, mTLS, Certificates, Ingress & Gateway API — Deep Dive
 
 ---
-
+ 
 ## Table of Contents
 
 1. [K8s Architecture: The 8-Layer Stack](#1-k8s-architecture-the-8-layer-stack) 
