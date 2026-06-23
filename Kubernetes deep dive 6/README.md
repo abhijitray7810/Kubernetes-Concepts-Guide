@@ -8,7 +8,7 @@
 
 1. [Cluster Architecture: The Full Stack](#1-cluster-architecture-the-full-stack)
 2. [Namespaces: Auto-Created & Custom](#2-namespaces-auto-created--custom)
-3. [Namespace Use Cases & Why You Need Them](#3-namespace-use-cases--why-you-need-them)
+3. [Namespace Use Cases & Why You Need Them](#3-namespace-use-cases--why-you-need-them) 
 4. [When NOT to Use Namespaces (Problems You'll Face)](#4-when-not-to-use-namespaces-problems-youll-face)
 5. [Load Balancer: 5 Algorithms](#5-load-balancer-5-algorithms)
 6. [Multi-Tenancy](#6-multi-tenancy)
