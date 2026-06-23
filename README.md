@@ -19,7 +19,7 @@ Kubernetes is a container orchestration platform that automates deployment, scal
 
 ---
 
-## Core Components
+## Core Components 
 
 ### 1. **Pod**
 **What it is:** The smallest deployable unit in Kubernetes that wraps one or more containers.
