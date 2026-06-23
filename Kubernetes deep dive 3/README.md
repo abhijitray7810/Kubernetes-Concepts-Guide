@@ -13,7 +13,7 @@
 5. [Volumes & Persistent Storage](#5-volumes--persistent-storage)
 6. [Probe Types](#6-probe-types)
 7. [Pod Status & Lifecycle](#7-pod-status--lifecycle)
-8. [Replication Controller (RC)](#8-replication-controller-rc)
+8. [Replication Controller (RC)](#8-replication-controller-rc) 
 9. [ReplicaSet (RS)](#9-replicaset-rs)
 10. [Selectors — matchLabels vs matchExpressions](#10-selectors--matchlabels-vs-matchexpressions)
 11. [ownerReference & Scale-Down Algorithm](#11-ownerreference--scale-down-algorithm)
