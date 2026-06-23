@@ -12,7 +12,7 @@
 4. [When NOT to Use Namespaces (Problems You'll Face)](#4-when-not-to-use-namespaces-problems-youll-face)
 5. [Load Balancer: 5 Algorithms](#5-load-balancer-5-algorithms)
 6. [Multi-Tenancy](#6-multi-tenancy)
-7. [CPU & Memory: Compressible vs Non-Compressible](#7-cpu--memory-compressible-vs-non-compressible)
+7. [CPU & Memory: Compressible vs Non-Compressible](#7-cpu--memory-compressible-vs-non-compressible) 
 8. [QoS (Quality of Service)](#8-qos-quality-of-service) 
 9. [Resource Quotas & LimitRanges](#9-resource-quotas--limitranges)
 10. [Cost Optimization with OpenCost](#10-cost-optimization-with-opencost)
