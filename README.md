@@ -12,7 +12,7 @@
 9. [Real-World Scenarios](#real-world-scenarios)
  
 ---
-
+ 
 ## Introduction
 
 Kubernetes is a container orchestration platform that automates deployment, scaling, and management of containerized applications. Each component solves specific challenges in running distributed systems at scale.
