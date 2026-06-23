@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-1. [Cluster Architecture Overview](#1-cluster-architecture-overview)
+1. [Cluster Architecture Overview](#1-cluster-architecture-overview) 
 2. [Labels — Deep Dive](#2-labels--deep-dive)
 3. [Annotations](#3-annotations)
 4. [Pod Spec — Complete YAML Analysis](#4-pod-spec--complete-yaml-analysis)
