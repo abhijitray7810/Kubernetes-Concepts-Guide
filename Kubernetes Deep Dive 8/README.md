@@ -1,4 +1,4 @@
-# ☸️ Kubernetes Deep Dive — Complete Reference Guide
+# ☸️ Kubernetes Deep Dive — Complete Reference Guide 
 
 > **Author:** Prerit | **Topic:** K8s ConfigMaps · Secrets · Service Mesh · Networking · DNS  
 > **Docs:** [kubernetes.io](https://kubernetes.io/docs) | [external-secrets.io](https://external-secrets.io) | [istio.io](https://istio.io)
