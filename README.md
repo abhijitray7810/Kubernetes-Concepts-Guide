@@ -41,7 +41,7 @@ A web application with a main application container and a logging sidecar contai
 apiVersion: v1
 kind: Pod
 metadata:
-  name: web-app
+  name: web-app 
 spec:
   containers:
   - name: app
