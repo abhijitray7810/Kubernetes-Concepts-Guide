@@ -5,7 +5,7 @@
 --- 
 
 ## Table of Contents
-
+ 
 1. [kind — Kubernetes IN Docker](#1-kind--kubernetes-in-docker)
 2. [Backward Compatibility — Master vs Worker Version](#2-backward-compatibility--version-skew-policy)
 3. [Stateless vs Stateful Applications](#3-stateless-vs-stateful-applications)
