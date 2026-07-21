@@ -3,7 +3,7 @@
 ## Table of Contents 
 1. [Introduction](#introduction) 
 2. [Core Components](#core-components)  
-3. [Workload Management](#workload-management) 
+3. [Workload Management](#workload-management)  
 4. [Networking & Access](#networking--access)
 5. [Configuration & Secrets](#configuration--secrets) 
 6. [Cluster Management](#cluster-management)
