@@ -2,7 +2,7 @@
 ![image](https://github.com/abhijitray7810/Kubernetes-Concepts-Guide/blob/5f42461b400aa942f87595e7d0c9c73483020ea7/Kubernetes%20deep%20dive/Container%20and%20Kubernetes%20Security.jpg)
 ## Table of Contents 
 1. [Introduction](#introduction)
-2. [Core Components](#core-components) 
+2. [Core Components](#core-components)  
 3. [Workload Management](#workload-management) 
 4. [Networking & Access](#networking--access)
 5. [Configuration & Secrets](#configuration--secrets) 
