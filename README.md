@@ -5,7 +5,7 @@
 2. [Core Components](#core-components) 
 3. [Workload Management](#workload-management)
 4. [Networking & Access](#networking--access)
-5. [Configuration & Secrets](#configuration--secrets)
+5. [Configuration & Secrets](#configuration--secrets) 
 6. [Cluster Management](#cluster-management)
 7. [Advanced Features](#advanced-features)
 8. [Component Relationships](#component-relationships) 
